@@ -1,0 +1,20 @@
+{
+  "name": "assigment7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.16.1",
+    "nodemon": "^3.1.11",
+    "sequelize": "^6.37.7"
+  }
+}
